@@ -1,0 +1,35 @@
+name,date,height,weight,Source
+Jack Smith,4/1/2019,185,91,CSVtest.csv
+Jack Black,4/2/2019,183,91,CSVtest.csv
+Brock Bricks,4/10/2019,185,95,CSVtest2.csv
+Jack Brack,6/7/2019,172,91,CSVtest2.csv
+Brock Bricks,4/10/2019,185,95,NewCSVtest2.csv
+Jack Brack,6/7/2019,172,91,NewCSVtest2.csv
+Tanner Morris,10/12/2020,178,90,NewCSVtest2.csv
+Emma Morris,10/12/2020,158,102,NewCSVtest2.csv
+Jen Smith,2019-05-02 00:00:00,153,50,EXCELtest.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,EXCELtest.xlsx
+Preston Morris,2020-10-12 00:00:00,174,94,EXCELtest.xlsx
+Emma Morris,2020-10-12 00:00:00,158,102,EXCELtest.xlsx
+Rock Royden,2019-05-02 00:00:00,160,52,EXCELtest2.xlsx
+Brandon Snads,2019-10-02 00:00:00,175,80,EXCELtest2.xlsx
+Jake Morris,2020-10-12 00:00:00,172,99,EXCELtest2.xlsx
+Emma Morris,2020-10-12 00:00:00,158,102,EXCELtest2.xlsx
+Jack Smith,2019-04-01 00:00:00,185,91,NewCSVtest.xlsx
+Jack Black,2019-04-02 00:00:00,183,91,NewCSVtest.xlsx
+Emma Morris,2020-10-12 00:00:00,161,102,NewCSVtest.xlsx
+Riley Morris,2020-10-12 00:00:00,175,95,NewCSVtest.xlsx
+Jen Smith,2019-05-02 00:00:00,153,50,NewEXCELtest.xlsx
+Sam Smith,2019-01-02 00:00:00,160,55,NewEXCELtest.xlsx
+Preston Morris,2020-10-12 00:00:00,174,94,NewEXCELtest.xlsx
+Emma Morris,2020-10-12 00:00:00,158,102,NewEXCELtest.xlsx
+Rock Royden,2019-05-02 00:00:00,160,52,NewEXCELtest2.xlsx
+Brandon Snads,2019-10-02 00:00:00,175,80,NewEXCELtest2.xlsx
+Jake Morris,2020-10-12 00:00:00,172,99,NewEXCELtest2.xlsx
+Emma Morris,2020-10-12 00:00:00,158,102,NewEXCELtest2.xlsx
+Rex Morris,10/12/2020,170,75,NewJSONtest.json
+Irene morris,10/20/2020,172,74,NewJSONtest2.json
+Tyler Morsbach,10/20/2020,165,70,NewJSONtest3.json
+Andrea Nicoll,10/20/2020,180,100,NewXMLtest.xml
+Natalie Lewis,10/20/2020,185,101,NewXMLtest2.xml
+Jason Lewis,10/20/2020,179,99,NewXMLtest3.xml
